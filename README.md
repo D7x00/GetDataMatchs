@@ -1,6 +1,6 @@
 # Match Details Scraper
 
-This Python script is designed to scrape and extract match details from a specific website, allowing you to save the information to a CSV file. You can use this script to retrieve details about football (soccer) matches from the website "yalla-shoots.io". The script provides options to fetch match details for today, tomorrow, or yesterday.
+This Python script is designed to scrape and extract match details from a specific website, allowing you to save the information to a CSV file. You can use this script to retrieve details about football (soccer) matches from the website . The script provides options to fetch match details for today, tomorrow, or yesterday.
 
 ## Prerequisites
 

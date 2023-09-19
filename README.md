@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## File Structure
 
-- `match_details_scraper.py`: The main Python script.
+- `main.py`: The main Python script.
 - `lib/Color.py`: A custom module for colorful console output.
 - `match_details.log`: A log file that stores information about script execution.
 - `matches-details.csv`: The CSV file where match details are saved.

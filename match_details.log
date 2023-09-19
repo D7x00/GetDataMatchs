@@ -1,0 +1,15 @@
+2023-09-19 03:04:35,414 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 03:09:04,664 - ERROR - Error: 'list' object has no attribute 'keys'
+2023-09-19 03:12:29,646 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 03:15:33,521 - ERROR - Error: list index out of range
+2023-09-19 03:16:42,021 - ERROR - Error: list index out of range
+2023-09-19 03:17:01,430 - ERROR - Error: list index out of range
+2023-09-19 03:17:56,171 - ERROR - Error: list index out of range
+2023-09-19 03:18:42,684 - ERROR - Error: list index out of range
+2023-09-19 03:19:23,032 - ERROR - Error: list index out of range
+2023-09-19 03:22:00,134 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 03:23:34,239 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 03:27:06,958 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 03:27:36,406 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 17:50:37,331 - INFO - Match details saved to 'matches-details.csv'
+2023-09-19 17:51:03,594 - INFO - Match details saved to 'matches-details.csv'
